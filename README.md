@@ -7,23 +7,23 @@
 
 ---
 
-![FIT-02](./images/FIT-02.png) 
+![FIT-02](./images/Fit-02.png) 
 
 ---
 
-![FIT-03](./images/FIT-03.png) 
+![FIT-03](./images/Fit-03.png) 
 
 ---
 
-![FIT-04](./images/FIT-04.png) 
+![FIT-04](./images/Fit-04.png) 
 
 ---
 
-![FIT-05](./images/FIT-05.png) 
+![FIT-05](./images/Fit-05.png) 
 
 ---
 
-![FIT-06](./images/FIT-06.png) 
+![FIT-06](./images/Fit-06.png) 
 
 ---
 
